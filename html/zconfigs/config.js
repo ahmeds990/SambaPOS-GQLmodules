@@ -57,9 +57,8 @@ var availableModules = [];
     availableModules.push('Timeclock Policies');
     availableModules.push('Punch Editor');
     availableModules.push('Task Editor');
-if (PHP) {
     availableModules.push('Reports');
-}
+
 
 var module = availableModules[0];
 
